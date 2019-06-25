@@ -1,0 +1,17 @@
+.fontOffical {
+font-family: 'Signika', sans-serif;
+}
+
+.icon 
+{
+  width: 100%;
+  display: block;
+}
+
+iframe  {
+  
+  float:left; 
+  height:109%;
+  width:100%;
+}
+
